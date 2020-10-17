@@ -22,3 +22,5 @@ for tr in trs:
         'artist': artist
     }
     db.genie.insert_one(doc)
+
+    #git 에 올리기
